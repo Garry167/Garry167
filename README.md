@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, DSA**
 
-- 💞️ I’m looking to collaborate on **Frontend Development**
+- 💞️ I’m looking to collaborate on **Development Projects**
 
 - 💬 Ask me about **JavaScript, Bootstrap**
 
